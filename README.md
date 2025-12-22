@@ -1,6 +1,6 @@
 # 👋 Hello there ! I'm Camille Robichon
 
-🎓 PhD Candidate in Food Science (lipid oxidation & antioxidant kinetics for specially Tocopherol interactions)  
+🎓 PhD Candidate in Food Science (New ways of formulating vitamin E to enhance its antioxidant efficiency in food matrix)  
 🧪 Researcher working on **oxidative stability in emulsions**, **antioxidant interactions**, **antioxidant formulation** and **kinetic modelling**.  
 💻 I build **MATLAB tools** to analyse complex degradation curves and compare kinetic models in a transparent, reproducible way.
 
