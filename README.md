@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Camille Robichon
+# 👋 Hello there ! I'm Camille Robichon
 
-🎓 PhD in Food Science (lipid oxidation & antioxidant kinetics)  
-🧪 Researcher working on **oxidative stability in emulsions**, **antioxidant interactions**, and **kinetic modelling**.  
+🎓 PhD Candidate in Food Science (lipid oxidation & antioxidant kinetics for specially Tocopherol interactions)  
+🧪 Researcher working on **oxidative stability in emulsions**, **antioxidant interactions**, **antioxidant formulation** and **kinetic modelling**.  
 💻 I build **MATLAB tools** to analyse complex degradation curves and compare kinetic models in a transparent, reproducible way.
 
 ---
@@ -13,7 +13,7 @@
 - Synergistic / additive / antagonistic interactions  
 - Kinetic modelling and statistical model selection  
 - Food formulation and shelf-life prediction  
-
+- In vitro digestion 
 ---
 
 ## 🧮 Modelling & code
@@ -37,11 +37,7 @@ I like turning experimental curves into interpretable parameters.
 ## 📄 Publication (methodology)
 
 The Weibull-based modelling framework and antioxidant interaction analysis were used in:
-
-> Robichon, C. *et al.* (2025).  
-> *Weibull modelling of antioxidant interactions in oil-in-water emulsions.*  
-> Comptes Rendus Food Science.  
-> DOI: [10.1016/j.crfs.2025.101134](https://doi.org/10.1016/j.crfs.2025.101134)
+Robichon, C., Villeneuve, P., Bohuon, P., Baréa, B., Barouh, N., Courtois, F., Fine, F., Durand, E. Unveiling synergistic antioxidant combinations for α-tocopherol in emulsions: a spectrophotometric-mathematical approach. Current Research in Food Science, 2025. https://doi.org/10.1016/j.crfs.2025.101134 If you use this repository, please cite this article.
 
 ---
 
@@ -57,7 +53,7 @@ The Weibull-based modelling framework and antioxidant interaction analysis were 
 
 I am interested in:
 
-- Postdoctoral positions in **food science**, **lipid oxidation**, **antioxidant systems**  
+- Postdoctoral positions in **food science**, **lipid oxidation**, **antioxidant systems**, **formulation**  
 - Collaborative projects combining **experiments + modelling**  
 - Applications to shelf-life prediction and formulation optimisation  
 
