@@ -23,7 +23,7 @@ I like turning experimental curves into interpretable parameters.
 
 **Main repositories:**
 - 📄 **CV** 
-  > [Download CV (PDF)](https://github.com/camillerobichon30/cv/cv.pdf)
+  > [Download CV (PDF)](https://github.com/camillerobichon30-cv/cv.pdf)
 
 - 📊 **Antioxidant Kinetic Model Comparison**  
   `Antioxidant-Kinetics-Model-Comparison`  
