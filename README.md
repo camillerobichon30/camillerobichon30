@@ -9,10 +9,11 @@
 ## 🔬 Research interests
 
 - Lipid oxidation in oil-in-water emulsions  
-- Antioxidant efficiency (tocopherols, phenolics, curcumin…)  
+- Antioxidant efficiency (tocopherols, phenolics, curcumin…)
+- Oxidation monitoring 
 - Synergistic / additive / antagonistic interactions  
 - Kinetic modelling and statistical model selection  
-- Food formulation and shelf-life prediction  
+- Food formulation 
 - In vitro digestion 
 ---
 
@@ -45,7 +46,7 @@ Robichon, C., Villeneuve, P., Bohuon, P., Baréa, B., Barouh, N., Courtois, F., 
 
 - **MATLAB**: kinetic fitting, model comparison, Monte Carlo simulation  
 - **Data analysis**: time-series, non-linear regression, AIC/BIC, Vuong tests  
-- **Food science**: lipid oxidation, emulsions, antioxidant mechanisms  
+- **Food science**: lipid oxidation, emulsions, antioxidant mechanisms, antioxidant formulation  
 
 ---
 
@@ -53,7 +54,8 @@ Robichon, C., Villeneuve, P., Bohuon, P., Baréa, B., Barouh, N., Courtois, F., 
 
 I am interested in:
 
-- Postdoctoral positions in **food science**, **lipid oxidation**, **antioxidant systems**, **formulation**  
+- Postdoctoral positions in **food science**, **lipid oxidation**, **antioxidant systems**, **formulation**
+- Research and development project management position in **food science**, **lipid oxidation**, **antioxidant systems**, **formulation**
 - Collaborative projects combining **experiments + modelling**  
 - Applications to shelf-life prediction and formulation optimisation  
 
