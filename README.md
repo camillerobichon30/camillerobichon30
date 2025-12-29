@@ -22,11 +22,8 @@
 I like turning experimental curves into interpretable parameters.
 
 **Main repositories:**
-
-- 🧾 **Weibull Modelling for Antioxidant Interaction Efficiency**  
-  `Weibull-Modelling-for-Antioxidant-Interaction-Efficiency`  
-  > MATLAB workflow for Weibull-based kinetic fitting, PDF/dPDF computation, Monte Carlo uncertainty and Excel export.  
-  > Used to analyse antioxidant interactions in O/W emulsions.  
+- 📄 **CV** 
+  > [Download CV (PDF)](https://github.com/camillerobichon30/cv.pdf)
 
 - 📊 **Antioxidant Kinetic Model Comparison**  
   `Antioxidant-Kinetics-Model-Comparison`  
