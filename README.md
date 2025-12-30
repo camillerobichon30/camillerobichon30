@@ -51,8 +51,8 @@ Robichon, C., Villeneuve, P., Bohuon, P., Baréa, B., Barouh, N., Courtois, F., 
 
 I am interested in:
 
-- Postdoctoral positions in **food science**, **lipid oxidation**, **antioxidant systems**, **formulation**
-- Research and development project management position in **food science**, **lipid oxidation**, **antioxidant systems**, **formulation**
+- Postdoctoral positions in **food science**, **lipid oxidation**, **antioxidant systems**, **formulation**, **functional compounds**
+- Research and development project management position in **food science**, **lipid oxidation**, **antioxidant systems**, **formulation**, **functional compounds**
 - Collaborative projects combining **experiments + modelling**  
 - Applications to shelf-life prediction and formulation optimisation  
 
