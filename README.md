@@ -32,10 +32,12 @@ I like turning experimental curves into interpretable parameters.
 
 ---
 
-## 📄 Publication (methodology)
+## 📄 Publication 
 
 The Weibull-based modelling framework and antioxidant interaction analysis were used in:
 Robichon, C., Villeneuve, P., Bohuon, P., Baréa, B., Barouh, N., Courtois, F., Fine, F., Durand, E. Unveiling synergistic antioxidant combinations for α-tocopherol in emulsions: a spectrophotometric-mathematical approach. Current Research in Food Science, 2025. https://doi.org/10.1016/j.crfs.2025.101134 If you use this repository, please cite this article.
+
+Robichon, C., Durand, E., Gamaethiralalage, J. G., Bohuon, P., Baréa, B., Barouh, N., Courtois, F., Fine, F., de Smet, L. C. P. M., Villeneuve, P. (2026). Decoding Tocopherol–Polyphenol Interactions in Oil-in-Water Emulsions through Combined WIM–CAT and CV Assays. Current Research in Food Science, 12, 101344. doi:10.1016/j.crfs.2026.101344
 
 ---
 
